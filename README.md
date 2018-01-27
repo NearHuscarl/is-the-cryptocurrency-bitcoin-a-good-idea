@@ -274,7 +274,7 @@ lưu trữ tiền vào trong đó, và bỏ vào két sắt. Vì thế cho dù n
 công, bạn vẫn sẽ còn tiền đó
 
 MỌI loại trộm cắp đều có thể được phòng ngừa bằng cách này với bitcoin. Bạn không thể
-làm được điều đó với tời đôla giấy vì nếu bạn có quá nhiều tiền, bạn sẽ cất giữ nó bằng
+làm được điều đó với tời đô la giấy vì nếu bạn có quá nhiều tiền, bạn sẽ cất giữ nó bằng
 cách nào? Tương tự đối với vàng
 
 * c. Làm giả
@@ -434,7 +434,7 @@ gồm những cryptocurrency khác nữa
 
 **Tại sao chúng ta lại cần các cryptocurrency khác?**
 
-Tại sao chúng ta lại cần nhiều hơn một loại tiền tệ? Tại sao lại có tờ đôla Mĩ và đôla
+Tại sao chúng ta lại cần nhiều hơn một loại tiền tệ? Tại sao lại có tờ đô la Mĩ và đô la
 Canada
 
 CHẲNG VÌ LÝ DO GÌ CẢ. Chỉ là một ranh giới nhân tạo được tạo ra vào năm 1770 và bây giờ
@@ -483,13 +483,13 @@ Các quốc gia sẽ dùng một phần trong công nghệ cryptocurrency vào n
 họ sắp tới sẽ bao gồm Trung Quốc, Hàn Quốc, Nga, và vâng, Mĩ
 
 Và nhiều quốc gia khác sẽ chối bỏ cryptocurrency nhưng người dân họ sẽ dịch chuyển theo
-nhóm lớn sang cryptocurrency để né tránh tham nhũng, lỗi lầm của con người, trộm cặp,...
+nhóm lớn sang cryptocurrency để né tránh tham nhũng, lỗi lầm của con người, trộm cắp,...
 Đứng đầu trong danh sách của tôi là Argentina
 
 **Giá trị của cryptocurrency sẽ là bao nhiêu?**
 
 Khi tôi viết về đề tài này lần đầu, tổng giá trị của tất cả các cryptocurrency vào khoảng
-200 tỉ đôla. Bây giờ nó đã vào khoảng 750 tỉ đô. Mặc dù tôi xem nhiều loại tiền như một
+200 tỉ đô la. Bây giờ nó đã vào khoảng 750 tỉ đô. Mặc dù tôi xem nhiều loại tiền như một
 hình thức lừa đảo nên con số có thể thực sự nhỏ hơn
 
 Đó là 'NGUỒN CUNG' cho cryptocurrency
@@ -553,13 +553,13 @@ Tôi là người viết phần mềm trong hơn 25 năm. Tôi có thể thực 
 đã làm
 
 Vào tháng 5, 2013 tôi đã tiến hành nghiên cứu đủ để xây cho mình cửa hàng bitcoin, đi đến
-CNBC và nói về bitcoin, và là người ủng hộ khi nó chỉ mới có giá 60 đôla. Tất cả những
+CNBC và nói về bitcoin, và là người ủng hộ khi nó chỉ mới có giá 60 đô la. Tất cả những
 điều này điều công khai cả
 
 Nhưng đối với tôi, tập trung vào sức khỏe thể chất, tình cảm, sáng tạo, tinh thần, sẽ luôn
 là thứ 'tiền tệ' có giá trị nhất tôi có thể phát triển và kinh doanh
 
-**Có phải bitcoin chỉ là một trao lưu?**
+**Có phải bitcoin chỉ là một trào lưu?**
 
 Không
 
@@ -569,11 +569,11 @@ này. Bitcoin và các cryptocurrency đã giải quyết được điều đó
 Và mọi nền công nghiệp đều sẽ tiến hóa. Cryptocurrency là con đường 'In data we trust' mà
 tiền tệ đang tiến hóa dần
 
-Và 750 TỈ đôla cũng tin với tôi điều vào điều đó
+Và 750 TỈ đô la cũng tin với tôi điều vào điều đó
 
 **Satoshi là ai?**
 
-Satoshi là một người bí mật đã sáng lập ra bitcoin. Ông ta đang sở hữu nhiều tỉ đôla
+Satoshi là một người bí mật đã sáng lập ra bitcoin. Ông ta đang sở hữu nhiều tỉ đô la
 bitcoin ngay lúc này. Ông ấy là người ẩn danh và các phóng viên, chính phủ... vẫn chưa
 bao giờ biết được danh tính ổng
 
@@ -584,7 +584,7 @@ là một người bí mật và không ai muốn làm lộ vỏ bọc của ôn
 
 Đừng nghe lời tôi
 
-#### a. Tạo một tài khoản trên Coinbase (hay gì cũng được). Mua 10 đôla bitcoin để cảm nhận nó như thế nào
+#### a. Tạo một tài khoản trên Coinbase (hay gì cũng được). Mua 10 đô la bitcoin để cảm nhận nó như thế nào
 
 #### b. Sau đó hãy đọc. Đọc thật nhiều vào
 
