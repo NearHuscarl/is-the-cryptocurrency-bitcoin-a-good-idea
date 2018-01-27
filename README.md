@@ -1,5 +1,7 @@
 Bản dịch từ câu trả lời trên quora: [Is the cryptocurrency bitcoin a good idea?](https://www.quora.com/Is-the-cryptocurrency-Bitcoin-a-good-idea/answer/James-Altucher)
 
+---
+
 **Đây là vấn đề**: Hầu hết những người biết về bitcoin chỉ biết nói về công nghệ
 
 Gần đây tôi có dự một cuộc hội thảo. Tôi là người nói chính ở đây dù tôi chẳng
