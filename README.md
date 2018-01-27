@@ -40,7 +40,7 @@ Lúc tôi ở trên CNBC, khi họ biết tôi đã làm điều đó. Một ng�
 
 Tôi nói: 'Tôi đang ở trên truyền hình quốc gia nên chắc vậy'
 
-Một thứ nữa: Hầu hết khách hàng của tôi chỉ có một domain name (họ phải đưa tôi địa
+Một điều nữa: Hầu hết khách hàng của tôi chỉ có một domain name (họ phải đưa tôi địa
 chỉ email của họ để tôi có thể thanh toán): Amazon.com. Hãy nghĩ về điều đó
 
 Vài tháng rồi tôi bắt đầu viết về cryptocurrency trở lại. Tôi thấy quá nhiều người
@@ -49,14 +49,14 @@ bị lừa đảo và tôi muốn giúp gì đó
 Vào một ngày nọ, tôi được một tài xế Uber cảm ơn trong lúc đi xe vì đã giúp ông ấy
 'hiểu được'.
 
-Và tối qua ở nhà hàng, một bồi bàn lúc cuối bữa ăn đã băt tay tôi và cảm ơn vì đã
+Và tối qua ở nhà hàng, một bồi bàn lúc cuối bữa ăn đã bắt tay tôi và cảm ơn vì đã
 giúp anh ấy 'cuối cùng' đã hiểu bitcoin là gì
 
 Để cryptocurrency trở nên thành công, mọi người cần phải hiểu ở mức căn bản nhất
 về nó. Không ai cần phải biết về những thứ phức tạp như cryptocurrency hay blockchain
 cả
 
-Chỉ cần hiểu được ngay lúc này, Tại sao nó lại quan trọng trong xã hội chúng ta
+Chỉ cần hiểu được ngay lúc này, tại sao nó lại quan trọng trong xã hội chúng ta
 
 # Hai lý do quan trọng tại sao bitcoin lại mang tầm vóc lịch sử và nó vẫn sẽ còn ở đây
 
@@ -122,10 +122,9 @@ kết cục không tốt lắm cho người Aztecs)
 
 Hai: Nếu như bạn muốn mua một căn nhà ngay bây giờ: bạn có thật sự phải mang thùng
 vàng đến đó không? Hay nếu bạn phải chuyển đến nước khác và bạn có một khoản tiết
-kiệm bạn đã để giành cả đời: bạn định mang hết tất cả số vàng của bạn đến với
-chỗ ở mới à? 
+kiệm bạn đã để giành cả đời: bạn định mang hết tất cả số vàng của bạn đến chỗ ở mới à? 
 
-Mọi người nói rằng vàng là 'thật' không như tiền giấy và crytocurrency
+Mọi người nói rằng vàng là 'thật' không như tiền giấy và cryptocurrency
 
 Điều này thật sự không đúng. Vàng là đá. Nhưng nó có ứng dụng trong công nghiệp
 (bạc tốt hơn trong điều này vì giá rẻ hơn nhưng sao cũng được...). Vàng và bạc
@@ -136,7 +135,7 @@ trong thực tế cùng với giá trị mà nó mang theo
 
 Nhưng chúng ta vẫn phải giải quyết vẫn đề ở trên
 
-### 3. Tiền giấy từ vàng và ..tiền giấy ???
+### 3. Tiền giấy từ vàng và ... tiền giấy
 
 Các quốc gia làm tiền giấy như là một bản hợp đồng với chính phủ rằng tất cả
 số lượng tiền đó có thể đổi lại thành vàng
@@ -176,7 +175,7 @@ và các chương trình cải thiện xã hội của Lyndon Johnson
 Tiền giấy thường sẽ dẫn đến điều này. Sẽ có người hỏi: Tại sao chúng ta lại cần
 vàng khi đó?
 
-Một lần nữa, điều đó có thể tốt hoặc xấu. Có rât nhiều tranh luận về việc này. Việc
+Một lần nữa, điều đó có thể tốt hoặc xấu. Có rất nhiều tranh luận về việc này. Việc
 in tiền có cứu Mĩ vào năm 2008 và 2009 không? Có thể. Và điều đó có dẫn đến những
 hậu quả trong tương lai không? Có lẽ vậy
 
@@ -256,7 +255,7 @@ cố định với đúng 21 triệu coin
 
 Làm sao tôi biết được điều này? Tôi là người hoài nghi. Nên tôi đã phân tích phần mềm
 tạo nên bitcoin. Tôi đọc nó nhiều lần cho đến khi tôi hiểu được. Trong một đoạn code
-họ đã định nghĩa rõ ràng có bao nhiều coin sẽ có thể được 'đào' (hay in ra) (in là một
+họ đã định nghĩa rõ ràng có bao nhiêu coin sẽ có thể được 'đào' (hay in ra) (in là một
 từ sai nhưng tôi đang sử dụng nó để tạo nên mối liên kết với tiền giấy). Và một đoạn
 code khác 'thi hành' phần đầu tiên
 
@@ -400,7 +399,7 @@ Một người đã bảo tôi, 'Cho dù chúng tôi có giỏi cỡ nào, họ 
 
 Các cuộc bầu cử bị sắp đặt. Công ty bị tấn công. Thông tin bị chiếm đoạt
 
-Chúng ta đang ở trong Thế chiến thứ III trong ít nhất 20 năm và nó sẽ không bao giờ kết
+Chúng ta đã ở trong Thế chiến thứ III trong ít nhất 20 năm và nó sẽ không bao giờ kết
 thúc. Chủ nghĩa dữ liệu đã kiểm soát chiến tranh
 
 Được rồi...
@@ -435,7 +434,7 @@ gồm những cryptocurrency khác nữa
 
 **Tại sao chúng ta lại cần các cryptocurrency khác?**
 
-Tại sao chúng ta lại cần nhiều hơn một loại tiền tệ? Tại sao lại có tờ đôla Mĩ và đoola
+Tại sao chúng ta lại cần nhiều hơn một loại tiền tệ? Tại sao lại có tờ đôla Mĩ và đôla
 Canada
 
 CHẲNG VÌ LÝ DO GÌ CẢ. Chỉ là một ranh giới nhân tạo được tạo ra vào năm 1770 và bây giờ
@@ -467,7 +466,7 @@ Amazon, tất nhiên, đã bị đẩy lùi, khi Internet chựng lại. Bây gi
 một công ty với giá 1000 tỷ đô. Nhiều công ty được thành lập vào những năm 1900 đã sống sót,
 lớn mạnh và là một sự đầu tư dài hạn xứng đáng
 
-Crytocurrency là internet của tiền tệ. Internet vẫn còn ở đây và Internet của tiền tệ cũng
+Cryptocurrency là internet của tiền tệ. Internet vẫn còn ở đây và Internet của tiền tệ cũng
 vậy
 
 Chúng ta chỉ mới ở những bước rất đầu tiên trong sự dịch chuyển đến cryptocurrency của
@@ -516,7 +515,7 @@ cryptocurrency. Đầu cơ dẫn đến lừu đảo và bong bóng thị trư�
 
 Nhưng cũng giống như các công ty Internet đã sống sót giai đoạn khó khăn và trở thành các
 công ty mà chúng ta sử dụng hằng ngày, có những cryptocurrency tồn tại bây giờ mà chúng ta
-sẽ còn dùng mỗi ngày trong mười năm sau
+sẽ còn dùng mỗi ngày trong mười năm nữa
 
 **Anh đã nói trên CNBC rằng bitcoin sẽ cán mốc 1,000,000 đô? Anh có đùa không?**
 
@@ -554,7 +553,7 @@ Tôi là người viết phần mềm trong hơn 25 năm. Tôi có thể thực 
 đã làm
 
 Vào tháng 5, 2013 tôi đã tiến hành nghiên cứu đủ để xây cho mình cửa hàng bitcoin, đi đến
-CNBC và nói về bitcoin, và là người ủng hộ khi nó chỉ mới có giá 60 đô la. Tất cả những
+CNBC và nói về bitcoin, và là người ủng hộ khi nó chỉ mới có giá 60 đôla. Tất cả những
 điều này điều công khai cả
 
 Nhưng đối với tôi, tập trung vào sức khỏe thể chất, tình cảm, sáng tạo, tinh thần, sẽ luôn
@@ -570,13 +569,13 @@ này. Bitcoin và các cryptocurrency đã giải quyết được điều đó
 Và mọi nền công nghiệp đều sẽ tiến hóa. Cryptocurrency là con đường 'In data we trust' mà
 tiền tệ đang tiến hóa dần
 
-Và 750 TỈ đô la cũng tin với tôi điều vào điều đó
+Và 750 TỈ đôla cũng tin với tôi điều vào điều đó
 
 **Satoshi là ai?**
 
-Satoshi là một người bí mật đã sáng lập ra bitcoin. Ông ta đang sở hữu nhiều tỉ đô la
+Satoshi là một người bí mật đã sáng lập ra bitcoin. Ông ta đang sở hữu nhiều tỉ đôla
 bitcoin ngay lúc này. Ông ấy là người ẩn danh và các phóng viên, chính phủ... vẫn chưa
-bao giờ biết được danh tính ông ấy
+bao giờ biết được danh tính ổng
 
 Nói thế, một vài người đã biết ông ta là ai. Tôi đọc blog của ông ấy mỗi ngày, ông
 là một người bí mật và không ai muốn làm lộ vỏ bọc của ông ấy cả
